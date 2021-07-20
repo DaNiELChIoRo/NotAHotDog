@@ -9,7 +9,7 @@
   "dependencies": {
     "clarifai": "^2.9.0",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-native-camera": "^2.10.2"
   },
   "devDependencies": {
